@@ -54,7 +54,7 @@
   <a href="https://discordapp.com/users/zahidulislam.2410" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="70" height="43" alt="discord logo"  />
   </a>
-  <a href="rabbi1272@gmail.com" target="_blank">
+  <a href="mailto:rabbi1272@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="43" alt="gmail logo"  />
   </a>
   <a href="https://www.facebook.com/zVoid.ois/" target="_blank">
