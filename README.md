@@ -48,7 +48,7 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/zahidul-islam-rabbi-b77724260" target="_blank">
+  <a href="https://linkedin.com/in/zahidul-islam-rabbi-b77724260" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="43" alt="linkedin logo"  />
   </a>
   <a href="https://discordapp.com/users/zahidulislam.2410" target="_blank">
