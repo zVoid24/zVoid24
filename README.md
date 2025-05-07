@@ -42,7 +42,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/zVoid24/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/zVoid24/count.svg?"/>
 </div>
 
 ###
