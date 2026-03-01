@@ -19,7 +19,6 @@
 
 <h3>
   Lets Connect  
-  <img src="[https://github.com/sabberrahman/sabberrahman/assets/140933637/b4a33235-8a44-475c-a18e-9bf2cb0c9f7b](https://github-production-user-asset-6210df.s3.amazonaws.com/140933637/286356176-b4a33235-8a44-475c-a18e-9bf2cb0c9f7b.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260301%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260301T053617Z&X-Amz-Expires=300&X-Amz-Signature=a0a20d45c9276c76dd58ae2fc1bf1fc837ba0476de3e4e99fc6f0ce52ce60cc8&X-Amz-SignedHeaders=host)" width="40px" height="40px"/>
 </h3>
 
 <p align="left">
