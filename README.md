@@ -12,8 +12,8 @@
 |-----------|---------------|
 | **Frontend** | Flutter |
 | **Backend** | Golang, Node.js, Express.js, fastAPI |
-| **Database** | PostgreSQL, MongoDB, MySQL, Firebase |
-| **Others** | Docker, Git, Github action,  Hostinger, Obsidian, bash|
+| **Database** | PostgreSQL, MongoDB, MySQL, Redis, Firebase |
+| **Others** | Rabbit MQ, Web Socket, Docker, Git, Github Action, Obsidian, Bash|
 
 
 
