@@ -11,7 +11,7 @@
 | Category | Technologies |
 |-----------|---------------|
 | **Frontend** | Flutter |
-| **Backend** | Golang, Node.js, Express.js, fastAPI |
+| **Backend** | Golang, Node.js, Express.js|
 | **Database** | PostgreSQL, MongoDB, MySQL, Redis, Firebase |
 | **Others** | Rabbit MQ, Web Socket, Docker, Git, Github Action, Obsidian, Bash|
 
